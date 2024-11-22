@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+joblib
+
+numpy
+requests
+flask
+google.generativeai
+flask-cors
